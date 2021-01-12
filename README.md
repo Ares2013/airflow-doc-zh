@@ -6,9 +6,10 @@
 >
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 >
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 计算机科学中仅存在两件难事：缓存失效和命名。——菲尔·卡尔顿
 
 * [在线阅读](https://airflow.apachecn.org)
+* [在线阅读（Gitee）](https://apachecn.gitee.io/airflow-doc-zh/)
 * [ApacheCN 大数据交流群 152622464](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
 
